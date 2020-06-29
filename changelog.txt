@@ -2,7 +2,7 @@
 Version: 0.18.3
 Date: 2020.06.29
   Changes:
-    - Renamed Krastorio to Krastorio 2 in the title & thumbnail.
+    - Changed Krastorio to Krastorio 2 in the title & thumbnail.
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.2
 Date: 2020.04.09
